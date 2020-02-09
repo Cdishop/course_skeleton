@@ -1,0 +1,7 @@
+1. Navigate to markdown_files folder and adjust
+
+Render any files to HTML and replace the original docs within the master repo.
+
+2. Store materials
+
+Reading pdfs within readings, data within notes, assignment pdfs within assignments.
