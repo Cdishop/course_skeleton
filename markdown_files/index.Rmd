@@ -1,11 +1,11 @@
 ---
-title: "Welcome<br>Regression, Fall 2020"
+title: "Welcome!<br>Regression Basics<br>Fall 2020"
 author: "[Christopher R. Dishop](https://github.com/cdishop)"
 date: "`r format(Sys.time(), '%d %B %Y')`"
 mail: "dishopch@msu.edu"
 home: "www.christopherdishop.com"
 # !!! You need to provide a logo image here !!! Or just delete the field for no logo
-#logo: "logo_gallery.png"
+logo: "../images/logo_gallery.png"
 output:
   epuRate::epurate:
     toc: TRUE
@@ -16,7 +16,7 @@ output:
 
 <br><br>
 
-> Let's start with a short introduction. Edit.
+> Introductory text. 
 
 # Weekly Readings{#readings}
 
