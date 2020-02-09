@@ -1,7 +1,30 @@
-1. Navigate to markdown_files folder and adjust
+1. Create your own repo, initialize it with a README, and clone it to your desktop.
 
-Render any files to HTML and replace the original docs within the master repo.
+2. Clone my course skeleton repo.
 
-2. Store materials
+3. Open my repo, highlight all files, drag and paste all files into your empty repo.
 
-Reading pdfs within readings, data within notes, assignment pdfs within assignments.
+4. Navigate to materials and adjust.
+
+- change readings pdfs
+- change assignments pdfs
+- change data within notes
+
+5. Navigate to markdown_files and adjust.
+
+- change the file
+- render it to HTML
+- place the new HTML in the master slot
+- e.g., when you render a new "index.HTML," replace the old "index.HTML"
+
+6. Adjust all links within the markdown files.
+
+- linking to webpages, pdfs, and data requires you to insert your own username
+
+7. Push changes within your repo to github.
+
+8. Go to settings => GitHub Pages => Source and change to master branch.
+
+9. Wait, and then your website will load
+
+10. When you make future changes, be sure to reload the index webpage by right clicking.
