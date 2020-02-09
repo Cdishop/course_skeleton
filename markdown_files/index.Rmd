@@ -20,14 +20,14 @@ output:
 
 # Weekly Readings{#readings}
 
-All reading reading materials are posted [here](https://github.com/Cdishop.github.io/course_skeleton/readings).
+All reading reading materials are posted [here](https://cdishop.github.io/course_skeleton/readings).
 
 # Assignments{#assignments}
 
-All assignments are posted [here](https://github.com/Cdishop.github.io/course_skeleton/assignments)
+All assignments are posted [here](https://cdishop.github.io/course_skeleton/assignments)
 
 # Notes{#notes}
 
-Lectures are posted [here](https://github.com/Cdishop.github.io/course_skeleton/notes)
+Lectures are posted [here](https://cdishop.github.io/course_skeleton/notes)
 
 
