@@ -1,10 +1,10 @@
 ---
 title: "Course Readings"
-author: "[Homepage](https://cdishop.github.io/course_skeleton)"
+author: "[Christopher R. Dishop](https://github.com/cdishop)"
 date: "`r format(Sys.time(), '%d %B %Y')`"
 mail: "dishopch@msu.edu"
 github: "cdishop"
-home: "https://cdishop.github.io/course_skeleton"
+home: "www.christopherdishop.com"
 # !!! You need to provide a logo image here !!! Or just delete the field for no logo
 logo: "../images/logo_gallery.png"
 output:
@@ -14,6 +14,11 @@ output:
     code_folding: "hide"
 ---
 
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = F, message = F)
+```
+
+[Homepage](https://cdishop.github.io/course_skeleton)
 
 # Week 1{#week1}
 
