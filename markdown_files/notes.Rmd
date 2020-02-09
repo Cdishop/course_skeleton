@@ -8,7 +8,7 @@ twitter: "r_graph_gallery"
 github: "holtzy"
 home: "www.yan-holtz.com"
 # !!! You need to provide a logo image here !!! Or just delete the field for no logo
-logo: "images/logo_gallery.png"
+logo: "../images/logo_gallery.png"
 output:
   epuRate::epurate:
     toc: TRUE
