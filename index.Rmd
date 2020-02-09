@@ -1,0 +1,33 @@
+---
+title: "Welcome<br>Regression, Fall 2020"
+author: "[Christopher R. Dishop](https://github.com/cdishop)"
+date: "`r format(Sys.time(), '%d %B %Y')`"
+mail: "dishopch@msu.edu"
+home: "www.christopherdishop.com"
+# !!! You need to provide a logo image here !!! Or just delete the field for no logo
+#logo: "logo_gallery.png"
+output:
+  epuRate::epurate:
+    toc: TRUE
+    number_sections: FALSE
+    code_folding: "hide"
+---
+
+
+<br><br>
+
+> Let's start with a short introduction. 
+
+# Weekly Readings{#readings}
+
+All reading reading materials are posted [here](https://github.com/Cdishop.github.io/course_skeleton/readings).
+
+# Assignments{#assignments}
+
+All assignments are posted [here](https://github.com/Cdishop.github.io/course_skeleton/assignments)
+
+# Notes{#notes}
+
+Lectures are posted [here](https://github.com/Cdishop.github.io/course_skeleton/notes)
+
+
