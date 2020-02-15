@@ -24,6 +24,8 @@ library(tidyverse)
 
 [Homepage](https://cdishop.github.io/course_skeleton)
 
+>> An example page for posting course notes and Rmarkdown files.
+
 # Day 1 {#get-data}
 
 Practice pulling data from a github repo.

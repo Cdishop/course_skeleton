@@ -1,5 +1,5 @@
 ---
-title: "Welcome!<br>Regression Basics<br>Fall 2020"
+title: "Welcome!<br>Course Title<br>Fall 2020"
 author: "[Christopher R. Dishop](https://github.com/cdishop)"
 date: "`r format(Sys.time(), '%d %B %Y')`"
 mail: "dishopch@msu.edu"
@@ -16,7 +16,9 @@ output:
 
 <br><br>
 
-> Introductory text. 
+> You are viewing a skeleton website that can be used for teaching statistics and research methods courses. 
+
+> More introductory text... 
 
 # Weekly Readings{#readings}
 
@@ -24,10 +26,10 @@ All reading reading materials are posted [here](https://cdishop.github.io/course
 
 # Assignments{#assignments}
 
-All assignments are posted [here](https://cdishop.github.io/course_skeleton/assignments)
+All assignments are posted [here](https://cdishop.github.io/course_skeleton/assignments).
 
 # Notes{#notes}
 
-Lectures are posted [here](https://cdishop.github.io/course_skeleton/notes)
+Lectures are posted [here](https://cdishop.github.io/course_skeleton/notes).
 
 

@@ -20,6 +20,8 @@ knitr::opts_chunk$set(echo = TRUE, warning = F, message = F)
 
 [Homepage](https://cdishop.github.io/course_skeleton)
 
+>> An example page for posting weekly readings.
+
 # Week 1{#week1}
 
 Short description.
