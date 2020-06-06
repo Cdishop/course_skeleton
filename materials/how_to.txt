@@ -1,3 +1,10 @@
+
+0. Yan Holtz's euprate package is requred. Download it in R:
+
+https://github.com/holtzy/epuRate
+
+
+
 1. Create your own repo, initialize it with a README, and clone it to your desktop.
 
 2. Clone my course skeleton repo.
